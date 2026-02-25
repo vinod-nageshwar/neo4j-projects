@@ -1,0 +1,524 @@
+[
+    {
+        "project": "Plus Willas",
+        "builder": "By Unitd Living Space in Saibaba Colony",
+        "launched": "Launched: Aug-2025",
+        "possession": "Possession: Jun-2033",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1919-2344 sq.ft (178.28-217.76 sq.m)",
+                "carpet_area": "1368-1724 sq.ft (127.09-160.16 sq.m)",
+                "price": "2.52 Cr -3.06 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "2536-2693 sq.ft (235.6-250.19 sq.m)",
+                "carpet_area": "1852-1941 sq.ft (172.06-180.32 sq.m)",
+                "price": "3.30 Cr -3.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Radiance Imperia",
+        "builder": "By Radiance Realty Developers India Ltd in Veerakeralam",
+        "launched": "Launched: Feb-2025",
+        "possession": "Possession: Aug-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2888-4671 sq.ft (268.3-433.95 sq.m)",
+                "carpet_area": "2137-3445 sq.ft (198.53-320.05 sq.m)",
+                "price": "2.27 Cr -3.65 Cr"
+            },
+            {
+                "bhk": "3.5 BHK Villa",
+                "super_builtup_area": "3691-4671 sq.ft (342.9-433.95 sq.m)",
+                "carpet_area": "2716-3445 sq.ft (252.32-320.05 sq.m)",
+                "price": "2.89 Cr -3.65 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "4651-4661 sq.ft (432.09-433.02 sq.m)",
+                "carpet_area": "3432-3448 sq.ft (320.33 sq.m)",
+                "price": "3.67 Cr -3.67 Cr"
+            },
+            {
+                "bhk": "4+ BHK Villa",
+                "super_builtup_area": "6493 sq.ft (603.22 sq.m)",
+                "carpet_area": "4925 sq.ft (457.55 sq.m)",
+                "price": "4.86 Cr -5.24 Cr"
+            },
+            {
+                "bhk": "5 BHK Villa",
+                "super_builtup_area": "6478-6493 sq.ft (601.83-603.22 sq.m)",
+                "carpet_area": "4925-4962 sq.ft (460.98 sq.m)",
+                "price": "5.24 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Casagrand Orchards Phase II",
+        "builder": "By Casagrand Builder Private Limited in Kannampalayam",
+        "launched": "Launched: Jan-2025",
+        "possession": "Possession: Oct-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2289-2319 sq.ft (212.65-215.44 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.60 Cr -1.77 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3163 sq.ft (293.85 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.18 Cr -2.21 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sree Daksha Macie",
+        "builder": "By Sree Daksha Property Developers in Vadavalli",
+        "launched": "Launched: Nov-2023",
+        "possession": "Possession: Aug-2028",
+        "config": [
+            {
+                "bhk": "3 BHK Apartment",
+                "super_builtup_area": "1053 sq.ft (97.83 sq.m)",
+                "carpet_area": "NA",
+                "price": "61.07 L"
+            },
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1800 sq.ft (167.23 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.56 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "2058 sq.ft (191.19 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.80 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Ramdev Divinity",
+        "builder": "By Ramdev Foundation LLP in Kalapatti",
+        "launched": "Launched: Jun-2023",
+        "possession": "Possession: Mar-2028",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "4040 sq.ft (375.33 sq.m)",
+                "carpet_area": "NA",
+                "price": "3 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Eivaa Antara",
+        "builder": "By Eivaa Homess India LLP in Kalapatti",
+        "launched": "Launched: Oct-2024",
+        "possession": "Possession: Dec-2026",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1387 sq.ft (128.86 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Casagrand Jubilant",
+        "builder": "By Casagrand Builder Private Limited in Avinashi Road",
+        "launched": "Launched: Dec-2022",
+        "possession": "Possession: Oct-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "3856-3878 sq.ft (358.23-360.28 sq.m)",
+                "carpet_area": "NA",
+                "price": "5.50 Cr -5.53 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "4567-4797 sq.ft (424.29-445.66 sq.m)",
+                "carpet_area": "NA",
+                "price": "6.06 Cr -6.90 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sree Dakshas Aazhini",
+        "builder": "By Sree Daksha Property Developers in Saravanampatti",
+        "launched": "Launched: Jul-2022",
+        "possession": "Possession: Jun-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1983-1992 sq.ft (184.23-185.06 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.84 Cr -1.85 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Nivasan Swarnapuraa",
+        "builder": "By Nivasan Homes in Kalapatti",
+        "launched": "Launched: Sep-2024",
+        "possession": "Possession: Oct-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2800 sq.ft (260.13 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Zenvistas Zenora",
+        "builder": "By Zenvistas Realty Ventures LLP in Kalapatti",
+        "launched": "Launched: Jan-2026",
+        "possession": "Possession: Dec-2030",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "4635 sq.ft (430.61 sq.m)",
+                "carpet_area": "NA",
+                "price": "5.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Pars Wellington Village",
+        "builder": "By Pars Engineering India Pvt Ltd in Kalapatti",
+        "launched": "Launched: Sep-2025",
+        "possession": "Possession: Dec-2030",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "2621-4747 sq.ft (243.5-441.01 sq.m)",
+                "carpet_area": "1918-3750 sq.ft (178.19-348.39 sq.m)",
+                "price": "2.75 Cr -4.98 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sri Sundaramm Gardens",
+        "builder": "By S Karthick (Builder) in Saravanampatti",
+        "launched": "Launched: Apr-2025",
+        "possession": "Possession: Mar-2026",
+        "config": [
+            {
+                "bhk": "2 BHK Villa",
+                "super_builtup_area": "1000 sq.ft (92.9 sq.m)",
+                "carpet_area": "NA",
+                "price": "40 L"
+            }
+        ]
+    },
+    {
+        "project": "Vrindhavana Visthara",
+        "builder": "By Vrindhavana Properties in Kalapatti",
+        "launched": "Launched: May-2023",
+        "possession": "Possession: Dec-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2433 sq.ft (226.03 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.85 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "2945 sq.ft (273.6 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.23 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Globus Flowerdale",
+        "builder": "By Globuse Realtors Private Limited in Mylampatti",
+        "launched": "Launched: Sep-2022",
+        "possession": "Possession: Aug-2026",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2000 sq.ft (185.81 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.80 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3000-4100 sq.ft (278.71-380.9 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.70 Cr -3.69 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Vakaman Gold Fields",
+        "builder": "By Vakaman Kota Enterprises in Sowripalayam",
+        "launched": "Launched: Jul-2021",
+        "possession": "Possession: Jan-2026",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3888-4700 sq.ft (361.21-436.64 sq.m)",
+                "carpet_area": "NA",
+                "price": "5.50 Cr -6 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Vakaman Altin Square",
+        "builder": "By Vakaman Developers in Mettupalayam Road",
+        "launched": "Launched: Aug-2022",
+        "possession": "Possession: Apr-2027",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3300-3446 sq.ft (306.58-320.14 sq.m)",
+                "carpet_area": "NA",
+                "price": "4.20 Cr -4.38 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Velmayil Sashti",
+        "builder": "By Velmayil Developers in Vilankurichi",
+        "launched": "Launched: May-2025",
+        "possession": "Possession: Dec-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1800 sq.ft (167.23 sq.m)",
+                "carpet_area": "NA",
+                "price": "NA"
+            }
+        ]
+    },
+    {
+        "project": "Sreevatsa Poorna",
+        "builder": "By Sreevatsa Real Estates Pvt Ltd in Thudiyalur",
+        "launched": "Launched: Jul-2024",
+        "possession": "Possession: Jan-2029",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2395 sq.ft (222.5 sq.m)",
+                "carpet_area": "NA",
+                "price": "3.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Karpagam Indraprasatha",
+        "builder": "By Karpagam Builders in Vilankurichi",
+        "launched": "Launched: Feb-2024",
+        "possession": "Possession: Sep-2028",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2500-2800 sq.ft (232.26-260.13 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.50 Cr -2.80 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Iva Imayam",
+        "builder": "By IVA Infrastructure in Kalapatti",
+        "launched": "Launched: Sep-2024",
+        "possession": "Possession: Dec-2029",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "4000 sq.ft (371.61 sq.m)",
+                "carpet_area": "NA",
+                "price": "3.40 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "6000 sq.ft (557.42 sq.m)",
+                "carpet_area": "NA",
+                "price": "5.10 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sky Park Residency",
+        "builder": "in Kalapatti",
+        "launched": "ongoing",
+        "possession": "ongoing",
+        "config": [
+            {
+                "bhk": "2 BHK Villa",
+                "super_builtup_area": "900 sq.ft (83.61 sq.m)",
+                "carpet_area": "NA",
+                "price": "NA"
+            }
+        ]
+    },
+    {
+        "project": "Royal Kalpatarasu Phase 1",
+        "builder": "By Royal Shelter in Ganapathy",
+        "launched": "Launched: Feb-2023",
+        "possession": "Possession: Mar-2026",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3000 sq.ft (278.71 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.70 Cr"
+            },
+            {
+                "bhk": "4+ BHK Villa",
+                "super_builtup_area": "4500 sq.ft (418.06 sq.m)",
+                "carpet_area": "4095 sq.ft (380.44 sq.m)",
+                "price": "4.05 Cr"
+            },
+            {
+                "bhk": "5 BHK Villa",
+                "super_builtup_area": "4500 sq.ft (418.06 sq.m)",
+                "carpet_area": "NA",
+                "price": "4.05 Cr"
+            }
+        ]
+    },
+    {
+        "project": "GV Kingsman Villas",
+        "builder": "By G.V. Realtors in Theethipalayam",
+        "launched": "Launched: Apr-2021",
+        "possession": "Possession: Oct-2025",
+        "config": [
+            {
+                "bhk": "2 BHK Villa",
+                "super_builtup_area": "909-1175 sq.ft (109.16 sq.m)",
+                "carpet_area": "NA",
+                "price": "37.26 L -48.17 L"
+            },
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1375-1584 sq.ft (147.16 sq.m)",
+                "carpet_area": "NA",
+                "price": "56.37 L -65 L"
+            }
+        ]
+    },
+    {
+        "project": "Infinium Central 16",
+        "builder": "By Infinium Developers in Ramanathapuram",
+        "launched": "Launched: Aug-2024",
+        "possession": "Possession: Dec-2026",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3609-4289 sq.ft (335.29-398.46 sq.m)",
+                "carpet_area": "2671-3262 sq.ft (248.14-303.05 sq.m)",
+                "price": "4.50 Cr -5.50 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sree Daksha Elsria",
+        "builder": "By Sree Daksha Property Developers in Thudiyalur",
+        "launched": "Launched: Feb-2025",
+        "possession": "Possession: Oct-2030",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "2494 sq.ft (231.7 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.05 Cr"
+            },
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "2970 sq.ft (275.92 sq.m)",
+                "carpet_area": "NA",
+                "price": "1.26 Cr"
+            }
+        ]
+    },
+    {
+        "project": "VNCT Regal Villas",
+        "builder": "By VNCT Global in Singanallur",
+        "launched": "Launched: May-2024",
+        "possession": "Possession: Mar-2029",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "1340 sq.ft (124.49 sq.m)",
+                "carpet_area": "NA",
+                "price": "1 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Diamond City Solitaire",
+        "builder": "By Diamond City Developers India Pvt. Ltd. in Kumarapalayam",
+        "launched": "Launched: Jul-2024",
+        "possession": "Possession: Apr-2032",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "3100 sq.ft (288 sq.m)",
+                "carpet_area": "NA",
+                "price": "3.40 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Sahara City Homes Row Houses",
+        "builder": "By Sahara Prime City Limited in Saravanampatti",
+        "launched": "ongoing",
+        "possession": "ongoing",
+        "config": [
+            {
+                "bhk": "3 BHK RowHouse",
+                "super_builtup_area": "1845 sq.ft (171.41 sq.m)",
+                "carpet_area": "NA",
+                "price": "NA"
+            },
+            {
+                "bhk": "5 BHK RowHouse",
+                "super_builtup_area": "3000-4282 sq.ft (278.71-397.81 sq.m)",
+                "carpet_area": "NA",
+                "price": "NA"
+            }
+        ]
+    },
+    {
+        "project": "Casagrand Colosseum",
+        "builder": "By Casagrand Builder Private Limited in Avarampalayam",
+        "launched": "Launched: Sep-2024",
+        "possession": "Possession: Mar-2027",
+        "config": [
+            {
+                "bhk": "4 BHK Villa",
+                "super_builtup_area": "4858 sq.ft (451.32 sq.m)",
+                "carpet_area": "NA",
+                "price": "6.66 Cr -6.86 Cr"
+            }
+        ]
+    },
+    {
+        "project": "Samridhi The Autograph",
+        "builder": "By Samridhi Uniquespaces in Kalapatti",
+        "launched": "Launched: Feb-2023",
+        "possession": "Possession: Dec-2027",
+        "config": [
+            {
+                "bhk": "3 BHK Villa",
+                "super_builtup_area": "3340 sq.ft (310.3 sq.m)",
+                "carpet_area": "NA",
+                "price": "2.60 Cr"
+            }
+        ]
+    }
+]
