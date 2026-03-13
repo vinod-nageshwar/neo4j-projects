@@ -3,7 +3,8 @@
         "project": "Casagrand Keystone",
         "promoter": "Casagrand Builder Private Limited",
         "description": "Casagrand Keystone by Casagrand Builder Private Limited offers 2 and 3 BHK homes that you're looking for. Spacious, stylish, and sustainable are the highlights of this residential property. These apartments for sale in Avinashi Road value families so that they can live with dignity. The 142-unit community is built for new-age residents who want a lavish life with over 40 amenities. Find an address where you can have an aspirational life.",
-        "location": "Near Rasathal Rakkiyannan Temple, Avinashi Road, Coimbatore",
+        "address": "Near Rasathal Rakkiyannan Temple, Avinashi Road, Coimbatore",
+        "location": "Avinashi Road",
         "config": [
             {
                 "bhk": 2,
@@ -25,7 +26,8 @@
         "project": "Paripoorna Aishwaryam",
         "promoter": "Paripoorna Shelters (P) Ltd.",
         "description": "Seize your 1 and 2 BHK residential apartments at Paripoorna Aishwaryam. Every unit is designed with 100% vastu principles for an all-around positive vibe every time. These apartments are fully functional and are ready for occupancy. The buyers can move in immediately without any delay in construction work. The apartments for sale in Madampatti offer 200 units. They are the building blocks of this vibrant community. Wellness is complicated; it is made smooth!",
-        "location": "Near by Sita Rama Temple, Madampatti, Coimbatore",
+        "address": "Near by Sita Rama Temple, Madampatti, Coimbatore",
+        "location": "Madampatti",
         "config": [
             {
                 "bhk": 1,
@@ -47,7 +49,8 @@
         "project": "Dhiya Coromandel Enclave",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Dhiya Coromandel Enclave is a plush planned gated community that offers residential plots planned across mid-rise blocks. Developed by the famous resident real estate developer Dhiya Foundation, these flats are all configured as sprawling 4 BHK units that are precisely planned to give you a lavish lifestyle. These flats are located in Singanallur, a prime residential area in the eastern part of the city, that also has sound connectivity and transportation availability. Boasting ultra-modern designs, these opulent apartments are planned across a site that extends 0.89 Acres. Overall there are 160 apartment units, and they have lavish carpet areas ranging between 3042 - 3332 Sq.Ft. So each unit in this complex is carefully built with spectacular interiors, finest fixtures, and premium finishes. These apartments enjoy nice amenities like car parking, lifts, and power backup facilities. If opulence is your style, do come check out this property and book your apartment soon.",
-        "location": "Near by NG Hospital, Singanallur,",
+        "address": "Near by NG Hospital, Singanallur,",
+        "location": "Singanallur",
         "config": [
             {
                 "bhk": 4,
@@ -62,7 +65,8 @@
         "project": "Casagrand Celest",
         "promoter": "Casagrand Builder Private Limited",
         "description": "Experience the definition of luxury living at Casagrand Celest, the elegant residential project by Casagrand Builder Private Limited in Sulur, Coimbatore. With a well-planned layout of 223 apartments of 2 BHK and 3 BHK, this community has a spacious unit size of 985 sq.ft to 1214 sq. ft. With 5 floors above the ground, the property features modern living spaces designed with comfort and convenience in mind. Beautifully designed apartments with world-class amenities are available at Casagrand Celest in Sulur. Covered car parking, lift, and a fully equipped gym for gym lovers are some of the facilities to experience luxury. After a tiring day, just relax in the pool, or, if that's too boring, plan your next gathering out in the multipurpose hall or mini-theatre. The barbeque terrace and open-air theatre bring together leisure and quality time in style. While an elevated mound-free dynamic space promises some green cover and leisure for the kiddies, there will be the provision of a play lawn as well. Casagrand Celest is a serene and conveniently accessible residential project located in Sulur, a fast-developing locality in Coimbatore. With an amalgam of elegance, modern comfort, and world class amenities, you can never go wrong with this one!",
-        "location": "Near RVS College Of Pharmaceutical Sciences, Sulur,",
+        "address": "Near RVS College Of Pharmaceutical Sciences, Sulur,",
+        "location": "Sulur",
         "config": [
             {
                 "bhk": 2,
@@ -84,7 +88,8 @@
         "project": "Radiance Riverwoods",
         "promoter": "RADIANCE REALTY DEVELOPERS INDIA LTD",
         "description": "Modern lifestyle and smart living at one place, Radiance Riverwoods, developed by Radiance Realty Developers India Ltd. The flats in Telungupalayam offer a wide range of 2 and 3 BHK, which is more efficient and convenient to stay in. Also, this project has 377 units of homes with ample space for residential purposes. Enclosed in essential amenities and connecting every core destination to all directions in the best way.",
-        "location": "Near Gandhi Park, Telungupalayam,",
+        "address": "Near Gandhi Park, Telungupalayam,",
+        "location": "Telungupalayam",
         "config": [
             {
                 "bhk": 1,
@@ -113,7 +118,8 @@
         "project": "Vedaanta Satsang",
         "promoter": "Vedaanta Senior Living Pvt Ltd",
         "description": "Acquire the elite residential apartment available in 1, 1.5, and 2 BHK configurations. Join Vedaanta Satsany by Vedaant Senior Living Pvt Ltd to make the best use of your retirement phase. The flats in Kovaipudur offer multiple living spaces where all your needs are met, including the need for special assistance. The community is secured 24/7 to offer you total peace of mind. It is surrounded by green covers to keep you in good health and improve the quality of living.",
-        "location": "Near Ukkadam Bypass Road, Kovaipudur, Coimbatore",
+        "address": "Near Ukkadam Bypass Road, Kovaipudur, Coimbatore",
+        "location": "Kovaipudur",
         "config": [
             {
                 "bhk": 1,
@@ -142,7 +148,8 @@
         "project": "Vedaanta Premam",
         "promoter": "Vedaanta Senior Living Pvt Ltd",
         "description": "Here's a rare chance to make your golden phase special! Choose top-level care at Vedaanta Premam, by Vedaanta Senior Living Pvt. Ltd. The community offers total peace of mind through its 2 BHK homes. These are designed for maximum comfort with amenities at your doorstep. The green surroundings let the quality of life take a big leap. These retirement living flats in Othakalmandapam are a calming retreat.",
-        "location": "Near Karpagam Nursing College, Othakalmandapam, Coimbatore",
+        "address": "Near Karpagam Nursing College, Othakalmandapam, Coimbatore",
+        "location": "Othakalmandapam",
         "config": [
             {
                 "bhk": 2,
@@ -157,7 +164,8 @@
         "project": "MUH 49 2",
         "promoter": "Unitd Living Space",
         "description": "Discover life-changing living spaces at MUH 49 2! These are multi-utility flats in Saravanampatti for a versatile purpose. They offer homes in 2, 2.5, and 3 BHK configurations with ample space for maximum ventilation. The residents get great connectivity due to frequent public transportation. 196 units give a vibe of futuristic homes with tech for people who want a hassle-free life. The best part, you get space-optimised furniture options!",
-        "location": "Near by Dr.SNS Arts College, Saravanampatti, Coimbatore",
+        "address": "Near by Dr.SNS Arts College, Saravanampatti, Coimbatore",
+        "location": "Saravanampatti",
         "config": [
             {
                 "bhk": 2,
@@ -186,7 +194,8 @@
         "project": "India Shankari Nivas",
         "promoter": "India Builders (Chennai) Limited",
         "description": "Introducing India Shankari Nivas, developed by India Builders (Chennai) Limited. The residential apartments for sale in R S Puram are designed as 3 BHK, offering maximum space for everyone to accommodate easily.  It offers 4 units, which are limited, where the resident can enjoy the comfort and convenience. Less population means less noise and using the amenities to the core level. Enclosed with essential amenities that improve the standard of living.",
-        "location": "Near by Vasuki Mahal Kalyana Mahal, R S Puram, Coimbatore",
+        "address": "Near by Vasuki Mahal Kalyana Mahal, R S Puram, Coimbatore",
+        "location": "R S Puram",
         "config": [
             {
                 "bhk": 3,
@@ -201,7 +210,8 @@
         "project": "Cinco Aaranya",
         "promoter": "Cinco India",
         "description": "Explore the 2 and 3 BHK residential apartments at Cinco Aaranya, developed by Cinco India. This project gives the advantage of a separate, independent space to accommodate young and growing families. The apartments for sale in Sarvanampatti are equipped with essential amenities and daily necessities that bring more comfort and convenience to improve the lifestyle. It offers 105 units and offers the buyer the chance to select their desired place to accommodate according to the family size.",
-        "location": "Near Vimal Jyothi Hospital, Saravanampatti, Coimbatore",
+        "address": "Near Vimal Jyothi Hospital, Saravanampatti, Coimbatore",
+        "location": "Saravanampatti",
         "config": [
             {
                 "bhk": 2,
@@ -223,7 +233,8 @@
         "project": "DAC Brooklyn",
         "promoter": "DAC Developers",
         "description": "Get your 3 BHK residential apartments at DAC Brooklyn, developed by DAC Developers. They offer more space to accommodate privacy for everyone in the family. The flats in R S Puram offer 15 exclusive units where they are surrounded by essential amenities and daily necessities that bring more opportunities to develop the lifestyle to the next level. They are located in main destinations, which can be easily accessed and reached through public transportation.",
-        "location": "Near Ganapathi Temple, R S Puram, Coimbatore",
+        "address": "Near Ganapathi Temple, R S Puram, Coimbatore",
+        "location": "R S Puram",
         "config": [
             {
                 "bhk": 3,
@@ -238,7 +249,8 @@
         "project": "DAC Thulir",
         "promoter": "DAC Developers",
         "description": "Witness the grandeur of residential apartments at DAC Thulir, developed by DAC Developers. They are developed with dual choices that include 2 and 3 BHK, which bring major advantages of choosing the desired space according to the family size and needs. The flats in GN Mills have 54 units where they are surrounded by amenities to enhance the lifestyle to the next level. It is located in the main area where everyone can reach the destination easily through public transportation.",
-        "location": "Near Kongunadu Arts and Science College, GN Mills, Coimbatore",
+        "address": "Near Kongunadu Arts and Science College, GN Mills, Coimbatore",
+        "location": "GN Mills",
         "config": [
             {
                 "bhk": 2,
@@ -260,7 +272,8 @@
         "project": "Globuse Arima Legend",
         "promoter": "ARIMA Constructions and Developers",
         "description": "Get your residential apartment that suits your family size and requirements at Globuse Arima Legend, developed by ARIMA Construction and Developers. The apartments for sale in Peelamedu offer 301 units that are located inside the gated community. Being surrounded by essential amenities and daily necessities helps to improve the quality of life. They are developed with 2, 3, and 4 BHK, where the residents make the choice to select and purchase their desired space according to family size.",
-        "location": "Near by Sri Ramakrishna Dental College and Hospital, Peelamedu, Coimbatore",
+        "address": "Near by Sri Ramakrishna Dental College and Hospital, Peelamedu, Coimbatore",
+        "location": "Peelamedu",
         "config": [
             {
                 "bhk": 2,
@@ -289,7 +302,8 @@
         "project": "Greenfield Lavender",
         "promoter": "Greenfield Housing India Pvt Ltd",
         "description": "Introducing Greenfield Lavender, developed by Greenfield Housing India Pvt Ltd. The projects are developed with 3 BHK units where everyone can easily accommodate independent space to live in. The flats in Kalapatti offer 35 exclusive units, which makes it fair enough to choose and purchase the unit within the community. Enclosed with essential amenities will help to improve the quality of life. They are also located in iconic areas that allow everyone to access them easily through public transport.",
-        "location": "Near by  New life peace blessing church, Kalapatti, Coimbatore",
+        "address": "Near by  New life peace blessing church, Kalapatti, Coimbatore",
+        "location": "Kalapatti",
         "config": [
             {
                 "bhk": 3,
@@ -304,7 +318,8 @@
         "project": "Modena",
         "promoter": "PNR Prime Realty Ltd",
         "description": "Welcome to Modena, an elegant residential apartment developed by PNR Prime Realty Ltd. The project is located in the main destination, which can be reached easily through public transport. The apartments in Singanallur have 3 BHK, where everyone gets more space to accommodate. With 14 exclusive units, the buyer can decide and purchase their desired living space within the community. Being surrounded by essential amenities and daily necessities to improve the quality of life.",
-        "location": "Near by Jeyendra Saraswathi School, Singanallur, Coimbatore",
+        "address": "Near by Jeyendra Saraswathi School, Singanallur, Coimbatore",
+        "location": "Singanallur",
         "config": [
             {
                 "bhk": 3,
@@ -319,7 +334,8 @@
         "project": "RR Harmony",
         "promoter": "RR Promoters",
         "description": "Grab your high standard of living space with comfort and convenience at RR Harmony, developed by RR Promoters. The project is designed with 3 BHK, which gives a major advantage of having independent living areas for every resident. The apartments for sale in Saibaba Colony offer 10 exclusive units, which gives an additional advantage to settle in a peaceful location. Being surrounded by essential amenities and daily necessities provides more opportunity to level up the standard of living.",
-        "location": "Near by  St.Thomas Higher Secondary School, Saibaba Colony, Coimbatore",
+        "address": "Near by  St.Thomas Higher Secondary School, Saibaba Colony, Coimbatore",
+        "location": "Saibaba Colony",
         "config": [
             {
                 "bhk": 3,
@@ -334,7 +350,8 @@
         "project": "TNCD Icon City",
         "promoter": "Town and City Developers",
         "description": "Get your 1 and 2 BHK residential apartments at TNCD Icon City, developed by Town and City Developers. This project is designed to be spacious, where everyone in the family gets their own space to live in a comfortable way. The flats in Cheran Ma Nagar offer 135 exclusive apartment units, which is a huge number of choices to be decided by the buyer for accommodation. Enclosed with essential amenities and daily necessities will improve the standard of living.",
-        "location": "Near by Nalam Hospital, Cheran Ma Nagar, Coimbatore",
+        "address": "Near by Nalam Hospital, Cheran Ma Nagar, Coimbatore",
+        "location": "Cheran Ma Nagar",
         "config": [
             {
                 "bhk": 1,
@@ -356,7 +373,8 @@
         "project": "Magnum City",
         "promoter": "Town and City Developers",
         "description": "The biggest residential apartment living space awaits at Magnum City, developed by Town and City Developers. The project is developed with 1, 2, and 3 BHK units where the residents are able to choose their desired space according to the family size. The apartments for sale in Vilankurichi have 160 exclusive units, making it an easy choice to select the unit within the community. Being surrounded by essential amenities and daily necessities brings the opportunity to develop the standard of living.",
-        "location": "Near by Githanjali Public School, Vilankurichi, Coimbatore",
+        "address": "Near by Githanjali Public School, Vilankurichi, Coimbatore",
+        "location": "Vilankurichi",
         "config": [
             {
                 "bhk": 1,
@@ -385,7 +403,8 @@
         "project": "Capital City",
         "promoter": "Town and City Developers",
         "description": "Presenting the multiple residential spaces all in one place in Capital City, developed by Town and City Developers. The flats in Kalapatti have 150 exclusive units where the residents are able to choose their desired space to accommodate. It has 1, 2, and 3 BHK, and they are filled with essential amenities that improve the standard of living. It is located in a high-demand location and makes it easy to reach the place through public transportation.",
-        "location": "Near by SIERRA ODC Private Limited, Kalapatti, Coimbatore",
+        "address": "Near by SIERRA ODC Private Limited, Kalapatti, Coimbatore",
+        "location": "Kalapatti",
         "config": [
             {
                 "bhk": 1,
@@ -414,7 +433,8 @@
         "project": "Sukras French Castle",
         "promoter": "Sukra Property Developers P Ltd",
         "description": "Experience the high level of comfortable residential apartment space at Sukras French Castle, developed by Sukra Property Developers P Ltd. The apartments are developed with two options that bring easy accommodation for small and large families. The flats in Saibaba Colony offer 2 and 3 BHK, which are designed with comfort and convenience. It also offers 15 exclusive units where the buyer gets the opportunity to choose their desired space within the location.",
-        "location": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
+        "address": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
+        "location": "Saibaba Colony",
         "config": [
             {
                 "bhk": 2,
@@ -436,7 +456,8 @@
         "project": "Sukras Vasantham",
         "promoter": "Sukra Property Developers P Ltd",
         "description": "Your home search ends here at Sukras Vasantham, developed by Sukra Property Developers P Ltd. The apartments for sale in Koudampalayam have 8 limited units, which give you more advantage to settle your lives in a peaceful way. It is covered with essential amenities like rainwater harvesting features, where water is stored during the rainy season. The project is developed with 2 BHK, which brings the opportunity for younger families to live in their own private space.",
-        "location": "Near by Brindavan Vidhyalaya Matriculation Higher Secondary School, Koundampalayam, Coimbatore",
+        "address": "Near by Brindavan Vidhyalaya Matriculation Higher Secondary School, Koundampalayam, Coimbatore",
+        "location": "Koundampalayam",
         "config": [
             {
                 "bhk": 2,
@@ -451,7 +472,8 @@
         "project": "Vakaman Swarna Sri Sadhan",
         "promoter": "Vakaman Developers India Pvt Ltd",
         "description": "Welcome to Vakaman Swarna Sri Sadhan, developed by Vakaman Developers. The flats in R S Puram offer 12, which are immediately available for move-in without waiting for construction work to be completed. Enclosed with essential amenities and daily necessities are located within the community to develop the standard of living. Non-stop power and water supply are connected to all the residents. Rainwater harvesting features are used for storing water during the rainy season effectively.",
-        "location": "Near by Liztoz Pre-School, R S Puram, Coimbatore",
+        "address": "Near by Liztoz Pre-School, R S Puram, Coimbatore",
+        "location": "R S Puram",
         "config": [
             {
                 "bhk": 4,
@@ -466,7 +488,8 @@
         "project": "Dhiya Sai Sree Lakshmi",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Discover the 2 and 3 BHK  residential apartments at Dhiya Sai Sree Lakshmi, developed by Dhiya Foundation Pvt Ltd. The buyer is able to choose the desired space to live a comfortable lifestyle. They are properly managed and maintained in the best condition. The flats in Saibaba Colony offer 20 exclusive units that are surrounded by essential amenities and daily necessities, which improve the quality of life. The gym will help to maintain the body's health and fitness.",
-        "location": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
+        "address": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
+        "location": "Saibaba Colony",
         "config": [
             {
                 "bhk": 2,
@@ -488,7 +511,8 @@
         "project": "Dhiya Rajashree",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Begin a new life at Dhiya Rajashree, designed with 3 BHK residential units and developed by Dhiya Foundation Pvt Ltd. The flats in Tatabad offer 10 exclusive units, where it gives the option to choose their desired house. Enclosed with essential amenities and daily necessities, it gives more advantages for the residents to develop their lifestyle to a higher level. A kids' playing area is available for spending time with family members.",
-        "location": "Near by Sathya Medical Centre & Hospital, Tatabad, Coimbatore",
+        "address": "Near by Sathya Medical Centre & Hospital, Tatabad, Coimbatore",
+        "location": "Tatabad",
         "config": [
             {
                 "bhk": 3,
@@ -503,7 +527,8 @@
         "project": "Dhiya Sai Anandam",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Introducing the stylish and multiple living space community at Dhiya Sai Anandam, developed by Dhiya Foundation Pvt Ltd.  This project comes with the design of 2, 3, and 4 BHK, which gives the choice to decide the living space according to size and requirement. From smaller families to larger families, everyone gets their accommodation with comfort and privacy indeed. The flats in Koundampalayam offer 25 exclusive units that bring the choice to decide their wanted space to live in.",
-        "location": "Near by Shri Raja Ganapathy Temple, Koundampalayam, Coimbatore",
+        "address": "Near by Shri Raja Ganapathy Temple, Koundampalayam, Coimbatore",
+        "location": "Koundampalayam",
         "config": [
             {
                 "bhk": 2,
@@ -532,7 +557,8 @@
         "project": "Dhiya Sri Rangas",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Welcome to Dhiya Sri Rangas, 2 and 3 BHK residential units developed by Dhiya Foundation Pvt Ltd. These apartments are well planned and managed in perfect condition, providing more space to accommodate comfort. The flats in R S Puram offer 19 limited units where you can choose the desired location and living space within the community. Being surrounded by essential amenities and daily necessities helps to improve the quality of life to the next level.",
-        "location": "Near by Amrutha Institutions, R S Puram, Coimbatore",
+        "address": "Near by Amrutha Institutions, R S Puram, Coimbatore",
+        "location": "R S Puram",
         "config": [
             {
                 "bhk": 2,
@@ -554,7 +580,8 @@
         "project": "Dhiya Sharada",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Witness the ultimate living experience with full comfort and convenience at Dhiya Sharada, developed by Dhiya Foundation Pvt Ltd. This project is designed with 3 BHK residential units to make it a massive and independent living area for all people. The flats in Uppilipalayam offer 5 exclusive units, where it gives the choice to be chosen by the buyers. Rainwater harvesting features store water during the rainy season. Grab your new home with full privacy.",
-        "location": "Near by Wicode Infotech Pvt Ltd, Uppilipalayam, Coimbatore",
+        "address": "Near by Wicode Infotech Pvt Ltd, Uppilipalayam, Coimbatore",
+        "location": "Uppilipalayam",
         "config": [
             {
                 "bhk": 3,
@@ -569,7 +596,8 @@
         "project": "Vakaman Amber",
         "promoter": "Vakaman Developers India Pvt Ltd",
         "description": "Grab your 3HK residential units at Vakaman Amber, developed by Vakaman Developers. Offering a swimming pool for a healthy lifestyle. The Flats in Selvapuram have 30 exclusive units that give choice for the buyer to decide the living space location within the community. Enclosed with modern amenities like a dance and fitness studio gives the opportunity to showcase your talents. The lake view yoga deck keeps your body and mind at peace.",
-        "location": "Near Arulmigu Ellai Karupparayan Thirukovil, Selvapuram, Coimbatore",
+        "address": "Near Arulmigu Ellai Karupparayan Thirukovil, Selvapuram, Coimbatore",
+        "location": "Selvapuram",
         "config": [
             {
                 "bhk": 3,
@@ -584,7 +612,8 @@
         "project": "Marutham Cherry Blossom",
         "promoter": "Marutham Group",
         "description": "Looking for a community that blends tradition and modernity? Marutham Cherry Blossom by Marutham Group introduces 39 apartments for sale in Kalapatti. These are stylish and spacious homes in a serene setting. The units are configured as 2 BHK and 3 BHK, and these are highly convenient for those who prioritizes a family-friendly community. The total land area provides a solution to every demand of the urban dwellers. Seize this opportunity and buy your dream home!",
-        "location": "Near by Coimbatore International Airport, Kalapatti, Coimbatore",
+        "address": "Near by Coimbatore International Airport, Kalapatti, Coimbatore",
+        "location": "Kalapatti",
         "config": [
             {
                 "bhk": 2,
@@ -606,7 +635,8 @@
         "project": "Brahmha Erica",
         "promoter": "Brahmha Foundation",
         "description": "Embrace Brahmha Erica by Brahmha Foundation, a place that symbolizes strength and richness. This is a one-of-a-kind project to uplift you. Every inch of this property reflects authenticity and passion. This project offers 69 apartments in Vilankurichi, increasing its demand in the market. Next, there are life-changing amenities for every resident to experience a quality of life. Don’t forget to purchase your dream home and get transformed.",
-        "location": "Near by TIDEL Park Coimbatore Ltd, Vilankurichi, Coimbatore",
+        "address": "Near by TIDEL Park Coimbatore Ltd, Vilankurichi, Coimbatore",
+        "location": "Vilankurichi",
         "config": [
             {
                 "bhk": 2,
@@ -621,7 +651,8 @@
         "project": "Neo City",
         "promoter": "Town and City Developers",
         "description": "Looking for a 2-BHK apartment in the most desirable location? Neo City by Town and City Developers is the name to check out. This property has 20 apartments for sale in Vilankurichi, a place growing rapidly. The community has contemporary amenities and sustainable features. These top facilities help the residents to live a stress-free life in the city. By choosing one of the units, you will unlock opportunities to thrive. Seize this chance to shine differently!",
-        "location": "Near by GEETHANJALEE MATRICULATION HIGHER SECONDARY SCHOOL, Vilankurichi, Coimbatore",
+        "address": "Near by GEETHANJALEE MATRICULATION HIGHER SECONDARY SCHOOL, Vilankurichi, Coimbatore",
+        "location": "Vilankurichi",
         "config": [
             {
                 "bhk": 2,
@@ -636,7 +667,8 @@
         "project": "Dhiya Skanda Samriddi",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Get your spacious 3 BHK residential apartments at Dhiya Shanda Samriddi, developed by Dhiya Foundation Pvt Ltd. Being surrounded by essential amenities and daily necessities that are easily accessible in different directions. The flats in Tatabad have 20 exclusive units that give the home buyer a choice of their desired living space and a convenient location within the community.",
-        "location": "Near Karpagam Theatre, Tatabad, Coimbatore",
+        "address": "Near Karpagam Theatre, Tatabad, Coimbatore",
+        "location": "Tatabad",
         "config": [
             {
                 "bhk": 3,
@@ -651,7 +683,8 @@
         "project": "Dhiya Sai Subiksham",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Get ready for the immediate move-in apartment at Dhiya Sai Subiksham, developed by Dhiya Foundation Pvt Ltd. The project is designed with 3 BHK, which gives sufficient space to live and leads a comfortable lifestyle to the next level. The flats in Vellakinar offer 40 exclusive apartments that are located in a prime location, bringing a comfortable lifestyle to every resident.",
-        "location": "Near by Aadhi Trust wedding Venue, Vellakinar, Coimbatore",
+        "address": "Near by Aadhi Trust wedding Venue, Vellakinar, Coimbatore",
+        "location": "Vellakinar",
         "config": [
             {
                 "bhk": 3,
@@ -666,7 +699,8 @@
         "project": "Dhiya Urbanite",
         "promoter": "Dhiya Foundation Pvt LTd",
         "description": "Explore the modern and sophisticated lifestyle at Dhiya Urbanite, developed by Dhiya Foundation Pvt Ltd. This residential project is designed with 3 BHK, which brings more comfort and privacy. These living spaces feature individual space for everyone. The entire community has essential amenities like EV charging points and separate car parking for everyone. The flats in Ganapathy have only 10 exclusive units that bring a calm and peaceful environment.",
-        "location": "Near Sri Kalyana Lingeshwarar Temple, Ganapathy, Coimbatore",
+        "address": "Near Sri Kalyana Lingeshwarar Temple, Ganapathy, Coimbatore",
+        "location": "Ganapathy",
         "config": [
             {
                 "bhk": 3,
@@ -681,7 +715,8 @@
         "project": "Mount Galaxy",
         "promoter": "Mount Housing",
         "description": "Introducing the multiple residential apartments at Mount Galaxy, launched by Mount Housing. It is developed with 1, 2, and 3 BHK, offering comfortable space to accommodate both small and large families. It also gives the choice to select and purchase the required space according to family size. The apartments in Vadavalli offer 212 units, which is a huge number to accommodate your chosen units within the location. It's filled with essential amenities to enhance the lifestyle.",
-        "location": "Near by Marudhamalai Subramaniya Swami Devasthanam High School, Vadavalli, Coimbatore",
+        "address": "Near by Marudhamalai Subramaniya Swami Devasthanam High School, Vadavalli, Coimbatore",
+        "location": "Vadavalli",
         "config": [
             {
                 "bhk": 1,
@@ -710,7 +745,8 @@
         "project": "RR Milir",
         "promoter": "RR HOUSING (INDIA) PVT. LTD",
         "description": "Welcome to RR Milir, a 2 BHK residential apartment that is filled with more space to accommodate family members in a comfortable way. It was developed by RR Housing (INDIA) Pvt Ltd, offering 55 exclusive units for comfortable accommodation. The flats in Ramanathapuram are filled with essential amenities to improve the standard of living. The terrace garden is the finest spot to relax and rest with family and friends altogether. All the units are designed and developed under Vaastu compliance.",
-        "location": "Near by GEM Hospital, Ramanathapuram, Coimbatore",
+        "address": "Near by GEM Hospital, Ramanathapuram, Coimbatore",
+        "location": "Ramanathapuram",
         "config": [
             {
                 "bhk": 2,
@@ -725,7 +761,8 @@
         "project": "Prince Blossom",
         "promoter": "Prince Foundations",
         "description": "Prince Blossom, developed by Prince Foundations. This project is designed with a variety of choices of living space, such as 1, 2, and 3 BHK, which are more comfortable for all sizes of families. The flats in Neelambur come with 230  units that bring more choice to homebuyers needs. The entire residential locality is surrounded by essential amenities that give a comfortable and high-satisfaction lifestyle to every resident.",
-        "location": "Near CSI Christ Chruch, Neelambur, Coimbatore",
+        "address": "Near CSI Christ Chruch, Neelambur, Coimbatore",
+        "location": "Neelambur",
         "config": [
             {
                 "bhk": 1,
@@ -754,7 +791,8 @@
         "project": "Cinco Cresendo",
         "promoter": "Cinco India",
         "description": "Unwind in the spacious comfort of Cinco Cresendo, developed by Cinco India. Speaking of space and privacy, the flats in Thudiyalur offer 2,3 and 4 BHK, which are more elegant to live in in a peaceful atmosphere. Both younger and growing families gain to opportunity to enjoy these facilities to the core. It also brings 55 residential units of choice for the homebuyer to choose their desired space for their needs.",
-        "location": "Behind Annapoorna Hotel & The Hillside Prep School, Thudiyalur, Coimbatore",
+        "address": "Behind Annapoorna Hotel & The Hillside Prep School, Thudiyalur, Coimbatore",
+        "location": "Thudiyalur",
         "config": [
             {
                 "bhk": 2,
@@ -783,7 +821,8 @@
         "project": "Jagannaath Vedaanta",
         "promoter": "Jagannaath Properties",
         "description": "Finally the wait is over; Jagannaath Vedaanta offers an elite range of residential apartments, developed by Jagannaath Properties. The flats in Peelamedu come with a variety of choices: 1, 2, and 3 BHK, which bring a high standard of comfort and a classy lifestyle for everyone. With 290 units, surrounded by modern amenities and daily necessities, it is nearby and easy to reach.",
-        "location": "Near by RJR Herbal Hospitals, Peelamedu, Coimbatore",
+        "address": "Near by RJR Herbal Hospitals, Peelamedu, Coimbatore",
+        "location": "Peelamedu",
         "config": [
             {
                 "bhk": 1,
@@ -812,7 +851,8 @@
         "project": "Sukras Aura",
         "promoter": "Sukra Property Developers P Ltd",
         "description": "Secure your dream home at Sukras Aura, constructed by Sukra Property Developers. The flats in Saibaba Colony are designed with 2 and 3 BHK, offering wide space to live in a comfortable way. With 10 exclusive units that are well planned and located in a major location, which can be easily accessed with public transport. Each residential unit comes with major productive areas like a kitchen, living room, and bedroom with high-standard privacy.",
-        "location": "T.A. Ramalingam Chettiar Hr. Sec. School, Saibaba Colony, Coimbatore",
+        "address": "T.A. Ramalingam Chettiar Hr. Sec. School, Saibaba Colony, Coimbatore",
+        "location": "Saibaba Colony",
         "config": [
             {
                 "bhk": 2,
@@ -834,7 +874,8 @@
         "project": "Sara Homes",
         "promoter": "Crystal Homes",
         "description": "Get your new identity at Sara Homes, developed by Crystal Homes.The Flats in Edayarpalayam project offers 24 well-planned 2 and 3 BHK residential units designed for comfort, convenience, and privacy. It also provides a peaceful living environment with modern amenities and easily connects all nearby localities.",
-        "location": "Near J.M. Hospital, Edayarpalayam, Coimbatore",
+        "address": "Near J.M. Hospital, Edayarpalayam, Coimbatore",
+        "location": "Edayarpalayam",
         "config": [
             {
                 "bhk": 2,
@@ -856,7 +897,8 @@
         "project": "Velar Urban Square",
         "promoter": "Velar Infra Projects LLP",
         "description": "Discover Vellar Urban Square, development by Velar Infra Projects LLP. Flats in Kalapatti combine sophisticated design, comfort, and vibrant living within a peaceful environment with modern amenities. Each of the 40 thoughtfully planned units offers ample space for families of all sizes. Choose from modern and comfortable 2 and 3-BHK homes, designed for an elegant lifestyle.",
-        "location": "Near by The Aalam Montessori School, Kalapatti, Coimbatore",
+        "address": "Near by The Aalam Montessori School, Kalapatti, Coimbatore",
+        "location": "Kalapatti",
         "config": [
             {
                 "bhk": 2,
@@ -878,7 +920,8 @@
         "project": "Silver D Casa",
         "promoter": "Sesha Projects",
         "description": "Discover Silver D Casa, an exclusive residential apartment project by Sesha Projects. With just 15 units, it provides a private and close-knit community atmosphere. Flats for sale in Kovaipudur are thoughtfully designed 2 BHK, offering spacious living with abundant natural light and ventilation. The residence is able to enjoy modern amenities and easy access to essential facilities.",
-        "location": "Near by Ashram School, Kovaipudur, Coimbatore",
+        "address": "Near by Ashram School, Kovaipudur, Coimbatore",
+        "location": "Kovaipudur",
         "config": [
             {
                 "bhk": 2,
@@ -893,7 +936,8 @@
         "project": "Aadhira",
         "promoter": "Versatown Developers Pvt Ltd",
         "description": "Aadhira is a new residential apartment project by Versatown Developers Pvt Ltd. The flats for sale in Saravanampatti provide 20 spacious units ideal for young families. With 1 and 2 BHK, it gives a comfortable and convenient living space for everyone. Enclosed with modern amenities and infrastructure, they are easily accessible and make the atmosphere peaceful and the environment fresh.",
-        "location": "Near by CRI Trust Healthcare, Saravanampatti, Coimbatore",
+        "address": "Near by CRI Trust Healthcare, Saravanampatti, Coimbatore",
+        "location": "Saravanampatti",
         "config": [
             {
                 "bhk": 1,
@@ -915,7 +959,8 @@
         "project": "Infinium Lotus Meadows",
         "promoter": "Infinium Developers",
         "description": "Launching the new lifestyle at Infinium Lotus Meadows, constructed by Infinium Developers. These apartments are designed with 2 and 3 BHK, offering an elegant and wide-open space for comfortable living. The flats in Saravanampatti feature 65 elite living spaces for everyone, and they're located in the centre of the modern amenities. The project covers 4.21 acres of land for a wide space of comfortable living and a pleasant environment.",
-        "location": "Near by Chil IT Park, Saravanampatti, Coimbatore",
+        "address": "Near by Chil IT Park, Saravanampatti, Coimbatore",
+        "location": "Saravanampatti",
         "config": [
             {
                 "bhk": 2,
@@ -937,7 +982,8 @@
         "project": "Navaneetha RR Raghavendra",
         "promoter": "Navaneetha Property Developers",
         "description": "Navaneetha RR Raghavendra, developed by Navaneetha Property Developers. Featuring 23 elegant unit homes built for a sophisticated lifestyle, it is surrounded by essential amenities for upgrading their lifestyle to the next level. Flats in Kundapur offer 3 BHK, which providesa  large space for comfortable living and families who seek more privacy for their family members.",
-        "location": "Near Arul Mehu Prasana Vinayagar Thirukoil, Kundapur, Coimbatore",
+        "address": "Near Arul Mehu Prasana Vinayagar Thirukoil, Kundapur, Coimbatore",
+        "location": "Kundapur",
         "config": [
             {
                 "bhk": 3,
@@ -952,7 +998,8 @@
         "project": "Trident Tranquility",
         "promoter": "Trident Builders",
         "description": "Get this opportunity to acquire elite residential apartments in the Trident Tranquility development by Trident Builders. These flats in Avinashi Road offer 3 BHK units designed for optimal comfort for families who need more space and privacy for everyone. With a total of 30 exclusive units, prospective homebuyers are afforded a selection of living spaces to suit their preferences.",
-        "location": "Near by Kendriya Vidyalaya CBSE School, Avinashi Road, Coimbatore",
+        "address": "Near by Kendriya Vidyalaya CBSE School, Avinashi Road, Coimbatore",
+        "location": "Avinashi Road",
         "config": [
             {
                 "bhk": 3,
@@ -967,7 +1014,8 @@
         "project": "Eeshanya Synchorny",
         "promoter": "Eeshanya Construction",
         "description": "Possess your dream homeland areas at G Square Castello, developed by G Square Housing. This project offers 170 exclusive residential plots in Sundarapuram for constructing your dream home with the plot buyer decision. The project lies in a key destination where it connects all the core destinations with less travel time of travelling. Surrounded by natural landscape and amenities for enhancing the residents' lifestyle to the next level.",
-        "location": "Near by Manchester International School, Saravanampatti, Coimbatore",
+        "address": "Near by Manchester International School, Saravanampatti, Coimbatore",
+        "location": "Saravanampatti",
         "config": [
             {
                 "bhk": 2,
@@ -996,7 +1044,8 @@
         "project": "Nithya Clover",
         "promoter": "Nithya Estates and Developers India Private Limited",
         "description": "Presenting the next level and new form of lifestyle at Nithya Clover residential apartment, designed by Nithya Estates and Developers India Private Limited. The flats in Puliakulam offer 2 and 3 BHK, which are completely designed with comfort and convenience. With elegant spaces and essential amenities, it offers a private lifestyle for young and growing families. With 90 exclusive apartments that are ready to move in.",
-        "location": "Near Sri Karuparayaswamy Kovil, Puliakulam, Coimbatore",
+        "address": "Near Sri Karuparayaswamy Kovil, Puliakulam, Coimbatore",
+        "location": "Puliakulam",
         "config": [
             {
                 "bhk": 2,
@@ -1018,7 +1067,8 @@
         "project": "Stepsstone Pollachi Phase II",
         "promoter": "Stepsstone Promoters Pvt Ltd",
         "description": "A home that makes senior living comfortable and simple at Stepsstone Pollachi Phase II has everything you need. Beautifully designed 1, 2, and 3 BHK apartments in Pollachi and senior-friendly choices, this project has everything any family member will need to live a secure, simple, and peaceful life. There are only 160 units, allowing for privacy, space, and a warm community feel. Do not wait to make a move today into comfort, convenience and happiness!",
-        "location": "Near Hindustan Fuel Station, Pollachi, Coimbatore",
+        "address": "Near Hindustan Fuel Station, Pollachi, Coimbatore",
+        "location": "Pollachi",
         "config": [
             {
                 "bhk": 1,
@@ -1047,7 +1097,8 @@
         "project": "Orchid Aarna",
         "promoter": "Lumbodhara Promoters",
         "description": "Experience a standard of living that elevates your life to the next level at Orchid Aarna, developed by Lumbodhara Promoters in Thudiyalur. The residential project features 2 and 3 BHK flats, which are ideal for families who are seeking convenience and privacy together in one spot. Flats in Thudiyalur offer 68 elite units and diverse choices for your dream home.",
-        "location": "Near by KTVR Group Hospital, Thudiyalur, Coimbatore",
+        "address": "Near by KTVR Group Hospital, Thudiyalur, Coimbatore",
+        "location": "Thudiyalur",
         "config": [
             {
                 "bhk": 2,
@@ -1069,7 +1120,8 @@
         "project": "SA Aura",
         "promoter": "S A Homes Infrastructure Pvt Ltd",
         "description": "Enter the world of comfort living in SA Aura, developed by S A Homes Infrastructure Pvt Ltd. Offering 3 BHK residential apartments for an elite lifestyle, encircled with modern amenities, and immediate occupancy. Flats in Ramnagar have 15 exclusive units for residents to embrace a new form of lifestyle. It also connects all key areas through transportation, which is the easiest and most convenient way to reach destinations in less time.",
-        "location": "Near by Ramar Temple, Ramnagar, Coimbatore",
+        "address": "Near by Ramar Temple, Ramnagar, Coimbatore",
+        "location": "Ramnagar",
         "config": [
             {
                 "bhk": 3,
