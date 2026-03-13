@@ -6,16 +6,18 @@
         "location": "Near Rasathal Rakkiyannan Temple, Avinashi Road, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1166",
-                "max_size_sq_ft": "1167",
-                "price": "68 L - 68 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1166,
+                "max_size_sq_ft": 1167,
+                "min_price": 6800000,
+                "max_price": 6800000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1573",
-                "max_size_sq_ft": "1776",
-                "price": "89 L - 99 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1573,
+                "max_size_sq_ft": 1776,
+                "min_price": 8900000,
+                "max_price": 9900000
             }
         ]
     },
@@ -26,42 +28,33 @@
         "location": "Near by Sita Rama Temple, Madampatti, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "552",
-                "max_size_sq_ft": "647",
-                "price": "26.5 L - 31.06 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 552,
+                "max_size_sq_ft": 647,
+                "min_price": 2650000,
+                "max_price": 3106000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1167",
-                "max_size_sq_ft": "1215",
-                "price": "56.02 L - 58.32 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1167,
+                "max_size_sq_ft": 1215,
+                "min_price": 5602000,
+                "max_price": 5832000
             }
         ]
     },
     {
-        "project": "Vedaanta Satsang",
-        "promoter": "Vedaanta Senior Living Pvt Ltd",
-        "description": "Acquire the elite residential apartment available in 1, 1.5, and 2 BHK configurations. Join Vedaanta Satsany by Vedaant Senior Living Pvt Ltd to make the best use of your retirement phase. The flats in Kovaipudur offer multiple living spaces where all your needs are met, including the need for special assistance. The community is secured 24/7 to offer you total peace of mind. It is surrounded by green covers to keep you in good health and improve the quality of living.",
-        "location": "Near Ukkadam Bypass Road, Kovaipudur, Coimbatore",
+        "project": "Dhiya Coromandel Enclave",
+        "promoter": "Dhiya Foundation Pvt LTd",
+        "description": "Dhiya Coromandel Enclave is a plush planned gated community that offers residential plots planned across mid-rise blocks. Developed by the famous resident real estate developer Dhiya Foundation, these flats are all configured as sprawling 4 BHK units that are precisely planned to give you a lavish lifestyle. These flats are located in Singanallur, a prime residential area in the eastern part of the city, that also has sound connectivity and transportation availability. Boasting ultra-modern designs, these opulent apartments are planned across a site that extends 0.89 Acres. Overall there are 160 apartment units, and they have lavish carpet areas ranging between 3042 - 3332 Sq.Ft. So each unit in this complex is carefully built with spectacular interiors, finest fixtures, and premium finishes. These apartments enjoy nice amenities like car parking, lifts, and power backup facilities. If opulence is your style, do come check out this property and book your apartment soon.",
+        "location": "Near by NG Hospital, Singanallur,",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "375",
-                "max_size_sq_ft": "496",
-                "price": "35 L - 46.29 L *"
-            },
-            {
-                "bhk": "1.5 BHK Flats",
-                "min_size_sq_ft": "630",
-                "max_size_sq_ft": "698",
-                "price": "58.79 L - 65.14 L *"
-            },
-            {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "800",
-                "max_size_sq_ft": "892",
-                "price": "74.66 L - 83.25 L *"
+                "bhk": 4,
+                "min_size_sq_ft": 3302,
+                "max_size_sq_ft": 3302,
+                "min_price": 21500000,
+                "max_price": 21500000
             }
         ]
     },
@@ -72,16 +65,18 @@
         "location": "Near RVS College Of Pharmaceutical Sciences, Sulur,",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "984",
-                "max_size_sq_ft": "989",
-                "price": "56 L - 56 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 984,
+                "max_size_sq_ft": 989,
+                "min_price": 5600000,
+                "max_price": 5600000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1210",
-                "max_size_sq_ft": "1263",
-                "price": "68 L - 70 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1210,
+                "max_size_sq_ft": 1263,
+                "min_price": 6800000,
+                "max_price": 7000000
             }
         ]
     },
@@ -92,36 +87,54 @@
         "location": "Near Gandhi Park, Telungupalayam,",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "696",
-                "max_size_sq_ft": "711",
-                "price": "54 L - 55 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 696,
+                "max_size_sq_ft": 711,
+                "min_price": 5400000,
+                "max_price": 5500000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1062",
-                "max_size_sq_ft": "1160",
-                "price": "83 L - 89 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1062,
+                "max_size_sq_ft": 1160,
+                "min_price": 8300000,
+                "max_price": 8900000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1388",
-                "max_size_sq_ft": "1560",
-                "price": "1.06 Cr - 1.21 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1388,
+                "max_size_sq_ft": 1560,
+                "min_price": 10600000,
+                "max_price": 12100000
             }
         ]
     },
     {
-        "project": "Vakaman Amber",
-        "promoter": "Vakaman Developers India Pvt Ltd",
-        "description": "Grab your 3HK residential units at Vakaman Amber, developed by Vakaman Developers. Offering a swimming pool for a healthy lifestyle. The Flats in Selvapuram have 30 exclusive units that give choice for the buyer to decide the living space location within the community. Enclosed with modern amenities like a dance and fitness studio gives the opportunity to showcase your talents. The lake view yoga deck keeps your body and mind at peace.",
-        "location": "Near Arulmigu Ellai Karupparayan Thirukovil, Selvapuram,",
+        "project": "Vedaanta Satsang",
+        "promoter": "Vedaanta Senior Living Pvt Ltd",
+        "description": "Acquire the elite residential apartment available in 1, 1.5, and 2 BHK configurations. Join Vedaanta Satsany by Vedaant Senior Living Pvt Ltd to make the best use of your retirement phase. The flats in Kovaipudur offer multiple living spaces where all your needs are met, including the need for special assistance. The community is secured 24/7 to offer you total peace of mind. It is surrounded by green covers to keep you in good health and improve the quality of living.",
+        "location": "Near Ukkadam Bypass Road, Kovaipudur, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1736",
-                "max_size_sq_ft": "1959",
-                "price": "1.62 Cr - 1.81 Cr *"
+                "bhk": 1,
+                "min_size_sq_ft": 375,
+                "max_size_sq_ft": 496,
+                "min_price": 3500000,
+                "max_price": 4629000
+            },
+            {
+                "bhk": 5,
+                "min_size_sq_ft": 630,
+                "max_size_sq_ft": 698,
+                "min_price": 5879000,
+                "max_price": 6514000
+            },
+            {
+                "bhk": 2,
+                "min_size_sq_ft": 800,
+                "max_size_sq_ft": 892,
+                "min_price": 7466000,
+                "max_price": 8325000
             }
         ]
     },
@@ -132,10 +145,11 @@
         "location": "Near Karpagam Nursing College, Othakalmandapam, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1015",
-                "max_size_sq_ft": "1015",
-                "price": "75 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1015,
+                "max_size_sq_ft": 1015,
+                "min_price": 7500000,
+                "max_price": 7500000
             }
         ]
     },
@@ -146,22 +160,25 @@
         "location": "Near by Dr.SNS Arts College, Saravanampatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "934",
-                "max_size_sq_ft": "959",
-                "price": "65.7 L - 67.2 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 934,
+                "max_size_sq_ft": 959,
+                "min_price": 6570000,
+                "max_price": 6720000
             },
             {
-                "bhk": "2.5 BHK Flats",
-                "min_size_sq_ft": "1077",
-                "max_size_sq_ft": "1139",
-                "price": "74.3 L - 78.1 L *"
+                "bhk": 5,
+                "min_size_sq_ft": 1077,
+                "max_size_sq_ft": 1139,
+                "min_price": 7430000,
+                "max_price": 7810000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1216",
-                "max_size_sq_ft": "1252",
-                "price": "82.7 L - 84.9 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1216,
+                "max_size_sq_ft": 1252,
+                "min_price": 8270000,
+                "max_price": 8490000
             }
         ]
     },
@@ -172,10 +189,11 @@
         "location": "Near by Vasuki Mahal Kalyana Mahal, R S Puram, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1400",
-                "max_size_sq_ft": "1400",
-                "price": "1.68 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1400,
+                "max_size_sq_ft": 1400,
+                "min_price": 16800000,
+                "max_price": 16800000
             }
         ]
     },
@@ -186,20 +204,21 @@
         "location": "Near Vimal Jyothi Hospital, Saravanampatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1013",
-                "max_size_sq_ft": "1091",
-                "price": "62 L - 66.76 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1013,
+                "max_size_sq_ft": 1091,
+                "min_price": 6200000,
+                "max_price": 6676000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1471",
-                "max_size_sq_ft": "1601",
-                "price": "90.02 L - 97.98 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1471,
+                "max_size_sq_ft": 1601,
+                "min_price": 9002000,
+                "max_price": 9798000
             }
         ]
     },
-    
     {
         "project": "DAC Brooklyn",
         "promoter": "DAC Developers",
@@ -207,10 +226,11 @@
         "location": "Near Ganapathi Temple, R S Puram, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1411",
-                "max_size_sq_ft": "1629",
-                "price": "1.71 Cr - 1.97 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1411,
+                "max_size_sq_ft": 1629,
+                "min_price": 17100000,
+                "max_price": 19700000
             }
         ]
     },
@@ -221,16 +241,18 @@
         "location": "Near Kongunadu Arts and Science College, GN Mills, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "976",
-                "max_size_sq_ft": "1045",
-                "price": "65 L - 76 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 976,
+                "max_size_sq_ft": 1045,
+                "min_price": 6500000,
+                "max_price": 7600000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1157",
-                "max_size_sq_ft": "1460",
-                "price": "81 L - 98 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1157,
+                "max_size_sq_ft": 1460,
+                "min_price": 8100000,
+                "max_price": 9800000
             }
         ]
     },
@@ -241,22 +263,25 @@
         "location": "Near by Sri Ramakrishna Dental College and Hospital, Peelamedu, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1354",
-                "max_size_sq_ft": "1379",
-                "price": "1.69 Cr - 1.72 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 1354,
+                "max_size_sq_ft": 1379,
+                "min_price": 16900000,
+                "max_price": 17200000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2101",
-                "max_size_sq_ft": "2371",
-                "price": "2.63 Cr - 2.96 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 2101,
+                "max_size_sq_ft": 2371,
+                "min_price": 26300000,
+                "max_price": 29600000
             },
             {
-                "bhk": "4 BHK Flats",
-                "min_size_sq_ft": "2700",
-                "max_size_sq_ft": "3222",
-                "price": "3.38 Cr - 4.03 Cr *"
+                "bhk": 4,
+                "min_size_sq_ft": 2700,
+                "max_size_sq_ft": 3222,
+                "min_price": 33800000,
+                "max_price": 40300000
             }
         ]
     },
@@ -267,10 +292,11 @@
         "location": "Near by  New life peace blessing church, Kalapatti, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1800",
-                "max_size_sq_ft": "2200",
-                "price": "1.2 Cr - 1.46 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1800,
+                "max_size_sq_ft": 2200,
+                "min_price": 12000000,
+                "max_price": 14600000
             }
         ]
     },
@@ -281,10 +307,11 @@
         "location": "Near by Jeyendra Saraswathi School, Singanallur, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1193",
-                "max_size_sq_ft": "1376",
-                "price": "83.01 L - 95.74 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1193,
+                "max_size_sq_ft": 1376,
+                "min_price": 8301000,
+                "max_price": 9574000
             }
         ]
     },
@@ -295,10 +322,11 @@
         "location": "Near by  St.Thomas Higher Secondary School, Saibaba Colony, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1539",
-                "max_size_sq_ft": "1613",
-                "price": "1.07 Cr - 1.12 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1539,
+                "max_size_sq_ft": 1613,
+                "min_price": 10700000,
+                "max_price": 11200000
             }
         ]
     },
@@ -309,16 +337,18 @@
         "location": "Near by Nalam Hospital, Cheran Ma Nagar, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "332",
-                "max_size_sq_ft": "343",
-                "price": "52.99 L - 54.74 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 332,
+                "max_size_sq_ft": 343,
+                "min_price": 5299000,
+                "max_price": 5474000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "498",
-                "max_size_sq_ft": "539",
-                "price": "79.48 L - 86.02 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 498,
+                "max_size_sq_ft": 539,
+                "min_price": 7948000,
+                "max_price": 8602000
             }
         ]
     },
@@ -329,22 +359,25 @@
         "location": "Near by Githanjali Public School, Vilankurichi, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "560",
-                "max_size_sq_ft": "560",
-                "price": "56.99 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 560,
+                "max_size_sq_ft": 560,
+                "min_price": 5699000,
+                "max_price": 5699000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "787",
-                "max_size_sq_ft": "808",
-                "price": "80.08 L - 82.22 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 787,
+                "max_size_sq_ft": 808,
+                "min_price": 8008000,
+                "max_price": 8222000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1063",
-                "max_size_sq_ft": "1123",
-                "price": "1.08 Cr - 1.14 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1063,
+                "max_size_sq_ft": 1123,
+                "min_price": 10800000,
+                "max_price": 11400000
             }
         ]
     },
@@ -355,22 +388,25 @@
         "location": "Near by SIERRA ODC Private Limited, Kalapatti, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "524",
-                "max_size_sq_ft": "532",
-                "price": "57.99 L - 58.87 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 524,
+                "max_size_sq_ft": 532,
+                "min_price": 5799000,
+                "max_price": 5887000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "853",
-                "max_size_sq_ft": "970",
-                "price": "94.39 L - 1.07 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 853,
+                "max_size_sq_ft": 970,
+                "min_price": 9439000,
+                "max_price": 10700000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1215",
-                "max_size_sq_ft": "1215",
-                "price": "1.34 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1215,
+                "max_size_sq_ft": 1215,
+                "min_price": 13400000,
+                "max_price": 13400000
             }
         ]
     },
@@ -381,16 +417,18 @@
         "location": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1150",
-                "max_size_sq_ft": "1275",
-                "price": "86.25 L - 95.63 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1150,
+                "max_size_sq_ft": 1275,
+                "min_price": 8625000,
+                "max_price": 9563000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1870",
-                "max_size_sq_ft": "1870",
-                "price": "1.4 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1870,
+                "max_size_sq_ft": 1870,
+                "min_price": 14000000,
+                "max_price": 14000000
             }
         ]
     },
@@ -401,14 +439,14 @@
         "location": "Near by Brindavan Vidhyalaya Matriculation Higher Secondary School, Koundampalayam, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "965",
-                "max_size_sq_ft": "995",
-                "price": "62.73 L - 64.68 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 965,
+                "max_size_sq_ft": 995,
+                "min_price": 6273000,
+                "max_price": 6468000
             }
         ]
     },
-    
     {
         "project": "Vakaman Swarna Sri Sadhan",
         "promoter": "Vakaman Developers India Pvt Ltd",
@@ -416,10 +454,11 @@
         "location": "Near by Liztoz Pre-School, R S Puram, Coimbatore",
         "config": [
             {
-                "bhk": "4 BHK Flats",
-                "min_size_sq_ft": "2950",
-                "max_size_sq_ft": "2965",
-                "price": "3.2 Cr - 3.21 Cr *"
+                "bhk": 4,
+                "min_size_sq_ft": 2950,
+                "max_size_sq_ft": 2965,
+                "min_price": 32000000,
+                "max_price": 32100000
             }
         ]
     },
@@ -430,16 +469,18 @@
         "location": "Near by Aathichudi International Pre-School, Saibaba Colony, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1195",
-                "max_size_sq_ft": "1235",
-                "price": "95.6 L - 98.8 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1195,
+                "max_size_sq_ft": 1235,
+                "min_price": 9560000,
+                "max_price": 9880000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1535",
-                "max_size_sq_ft": "1550",
-                "price": "1.23 Cr - 1.24 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1535,
+                "max_size_sq_ft": 1550,
+                "min_price": 12300000,
+                "max_price": 12400000
             }
         ]
     },
@@ -450,10 +491,11 @@
         "location": "Near by Sathya Medical Centre & Hospital, Tatabad, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1551",
-                "max_size_sq_ft": "1617",
-                "price": "1.31 Cr - 1.36 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1551,
+                "max_size_sq_ft": 1617,
+                "min_price": 13100000,
+                "max_price": 13600000
             }
         ]
     },
@@ -464,22 +506,25 @@
         "location": "Near by Shri Raja Ganapathy Temple, Koundampalayam, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1242",
-                "max_size_sq_ft": "1303",
-                "price": "74.52 L - 78.18 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1242,
+                "max_size_sq_ft": 1303,
+                "min_price": 7452000,
+                "max_price": 7818000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1710",
-                "max_size_sq_ft": "1710",
-                "price": "1.03 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1710,
+                "max_size_sq_ft": 1710,
+                "min_price": 10300000,
+                "max_price": 10300000
             },
             {
-                "bhk": "4 BHK Flats",
-                "min_size_sq_ft": "1984",
-                "max_size_sq_ft": "1984",
-                "price": "1.19 Cr *"
+                "bhk": 4,
+                "min_size_sq_ft": 1984,
+                "max_size_sq_ft": 1984,
+                "min_price": 11900000,
+                "max_price": 11900000
             }
         ]
     },
@@ -490,16 +535,18 @@
         "location": "Near by Amrutha Institutions, R S Puram, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1373",
-                "max_size_sq_ft": "1386",
-                "price": "1.36 Cr - 1.37 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 1373,
+                "max_size_sq_ft": 1386,
+                "min_price": 13600000,
+                "max_price": 13700000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1831",
-                "max_size_sq_ft": "1888",
-                "price": "1.81 Cr - 1.87 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1831,
+                "max_size_sq_ft": 1888,
+                "min_price": 18100000,
+                "max_price": 18700000
             }
         ]
     },
@@ -510,14 +557,14 @@
         "location": "Near by Wicode Infotech Pvt Ltd, Uppilipalayam, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2400",
-                "max_size_sq_ft": "2400",
-                "price": "2.32 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 2400,
+                "max_size_sq_ft": 2400,
+                "min_price": 23200000,
+                "max_price": 23200000
             }
         ]
     },
-    
     {
         "project": "Vakaman Amber",
         "promoter": "Vakaman Developers India Pvt Ltd",
@@ -525,10 +572,11 @@
         "location": "Near Arulmigu Ellai Karupparayan Thirukovil, Selvapuram, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1736",
-                "max_size_sq_ft": "1959",
-                "price": "1.62 Cr - 1.81 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1736,
+                "max_size_sq_ft": 1959,
+                "min_price": 16200000,
+                "max_price": 18100000
             }
         ]
     },
@@ -539,16 +587,18 @@
         "location": "Near by Coimbatore International Airport, Kalapatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1170",
-                "max_size_sq_ft": "1170",
-                "price": "78.4 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1170,
+                "max_size_sq_ft": 1170,
+                "min_price": 7840000,
+                "max_price": 7840000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1630",
-                "max_size_sq_ft": "1810",
-                "price": "1.09 Cr - 1.21 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1630,
+                "max_size_sq_ft": 1810,
+                "min_price": 10900000,
+                "max_price": 12100000
             }
         ]
     },
@@ -559,14 +609,14 @@
         "location": "Near by TIDEL Park Coimbatore Ltd, Vilankurichi, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "926",
-                "max_size_sq_ft": "941",
-                "price": "57.68 L - 58.6 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 926,
+                "max_size_sq_ft": 941,
+                "min_price": 5768000,
+                "max_price": 5860000
             }
         ]
     },
-    
     {
         "project": "Neo City",
         "promoter": "Town and City Developers",
@@ -574,10 +624,11 @@
         "location": "Near by GEETHANJALEE MATRICULATION HIGHER SECONDARY SCHOOL, Vilankurichi, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "990",
-                "max_size_sq_ft": "990",
-                "price": "33.5 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 990,
+                "max_size_sq_ft": 990,
+                "min_price": 3350000,
+                "max_price": 3350000
             }
         ]
     },
@@ -588,10 +639,11 @@
         "location": "Near Karpagam Theatre, Tatabad, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1785",
-                "max_size_sq_ft": "1892",
-                "price": "1.61 Cr - 1.7 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1785,
+                "max_size_sq_ft": 1892,
+                "min_price": 16100000,
+                "max_price": 17000000
             }
         ]
     },
@@ -602,10 +654,11 @@
         "location": "Near by Aadhi Trust wedding Venue, Vellakinar, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1907",
-                "max_size_sq_ft": "1998",
-                "price": "1.12 Cr - 1.18 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1907,
+                "max_size_sq_ft": 1998,
+                "min_price": 11200000,
+                "max_price": 11800000
             }
         ]
     },
@@ -616,10 +669,11 @@
         "location": "Near Sri Kalyana Lingeshwarar Temple, Ganapathy, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1970",
-                "max_size_sq_ft": "1970",
-                "price": "1.58 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1970,
+                "max_size_sq_ft": 1970,
+                "min_price": 15800000,
+                "max_price": 15800000
             }
         ]
     },
@@ -630,22 +684,25 @@
         "location": "Near by Marudhamalai Subramaniya Swami Devasthanam High School, Vadavalli, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "579",
-                "max_size_sq_ft": "579",
-                "price": "34.75 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 579,
+                "max_size_sq_ft": 579,
+                "min_price": 3475000,
+                "max_price": 3475000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "808",
-                "max_size_sq_ft": "808",
-                "price": "47.75 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 808,
+                "max_size_sq_ft": 808,
+                "min_price": 4775000,
+                "max_price": 4775000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1014",
-                "max_size_sq_ft": "1014",
-                "price": "59.75 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1014,
+                "max_size_sq_ft": 1014,
+                "min_price": 5975000,
+                "max_price": 5975000
             }
         ]
     },
@@ -656,10 +713,11 @@
         "location": "Near by GEM Hospital, Ramanathapuram, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "845",
-                "max_size_sq_ft": "992",
-                "price": "54.92 L - 64.48 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 845,
+                "max_size_sq_ft": 992,
+                "min_price": 5492000,
+                "max_price": 6448000
             }
         ]
     },
@@ -670,22 +728,25 @@
         "location": "Near CSI Christ Chruch, Neelambur, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "625",
-                "max_size_sq_ft": "625",
-                "price": "31.2 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 625,
+                "max_size_sq_ft": 625,
+                "min_price": 3120000,
+                "max_price": 3120000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "985",
-                "max_size_sq_ft": "985",
-                "price": "49.2 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 985,
+                "max_size_sq_ft": 985,
+                "min_price": 4920000,
+                "max_price": 4920000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1400",
-                "max_size_sq_ft": "1400",
-                "price": "69.18 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1400,
+                "max_size_sq_ft": 1400,
+                "min_price": 6918000,
+                "max_price": 6918000
             }
         ]
     },
@@ -696,22 +757,25 @@
         "location": "Behind Annapoorna Hotel & The Hillside Prep School, Thudiyalur, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1164",
-                "max_size_sq_ft": "1329",
-                "price": "89.22 L - 1.01 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 1164,
+                "max_size_sq_ft": 1329,
+                "min_price": 8922000,
+                "max_price": 10100000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1826",
-                "max_size_sq_ft": "1899",
-                "price": "1.41 Cr - 1.46 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1826,
+                "max_size_sq_ft": 1899,
+                "min_price": 14100000,
+                "max_price": 14600000
             },
             {
-                "bhk": "4 BHK Flats",
-                "min_size_sq_ft": "3250",
-                "max_size_sq_ft": "3250",
-                "price": "2.48 Cr *"
+                "bhk": 4,
+                "min_size_sq_ft": 3250,
+                "max_size_sq_ft": 3250,
+                "min_price": 24800000,
+                "max_price": 24800000
             }
         ]
     },
@@ -722,22 +786,25 @@
         "location": "Near by RJR Herbal Hospitals, Peelamedu, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "555",
-                "max_size_sq_ft": "653",
-                "price": "43 L - 50.59 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 555,
+                "max_size_sq_ft": 653,
+                "min_price": 4300000,
+                "max_price": 5059000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "751",
-                "max_size_sq_ft": "1059",
-                "price": "58 L - 81.79 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 751,
+                "max_size_sq_ft": 1059,
+                "min_price": 5800000,
+                "max_price": 8179000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1324",
-                "max_size_sq_ft": "1750",
-                "price": "1.03 Cr - 1.36 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1324,
+                "max_size_sq_ft": 1750,
+                "min_price": 10300000,
+                "max_price": 13600000
             }
         ]
     },
@@ -748,20 +815,21 @@
         "location": "T.A. Ramalingam Chettiar Hr. Sec. School, Saibaba Colony, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1410",
-                "max_size_sq_ft": "1510",
-                "price": "1.41 Cr - 3.02 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 1410,
+                "max_size_sq_ft": 1510,
+                "min_price": 14100000,
+                "max_price": 30200000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2820",
-                "max_size_sq_ft": "3020",
-                "price": "2.82 Cr - 3.02 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 2820,
+                "max_size_sq_ft": 3020,
+                "min_price": 28200000,
+                "max_price": 30200000
             }
         ]
     },
-    
     {
         "project": "Sara Homes",
         "promoter": "Crystal Homes",
@@ -769,16 +837,18 @@
         "location": "Near J.M. Hospital, Edayarpalayam, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1117",
-                "max_size_sq_ft": "1117",
-                "price": "68 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1117,
+                "max_size_sq_ft": 1117,
+                "min_price": 6800000,
+                "max_price": 6800000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1234",
-                "max_size_sq_ft": "1306",
-                "price": "75 L - 79.01 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1234,
+                "max_size_sq_ft": 1306,
+                "min_price": 7500000,
+                "max_price": 7901000
             }
         ]
     },
@@ -789,30 +859,33 @@
         "location": "Near by The Aalam Montessori School, Kalapatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1233",
-                "max_size_sq_ft": "1287",
-                "price": "98.63 L - 1.03 Cr *"
+                "bhk": 2,
+                "min_size_sq_ft": 1233,
+                "max_size_sq_ft": 1287,
+                "min_price": 9863000,
+                "max_price": 10300000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2251",
-                "max_size_sq_ft": "2312",
-                "price": "1.08 Cr - 1.85 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 2251,
+                "max_size_sq_ft": 2312,
+                "min_price": 10800000,
+                "max_price": 18500000
             }
         ]
     },
-        {
+    {
         "project": "Silver D Casa",
         "promoter": "Sesha Projects",
         "description": "Discover Silver D Casa, an exclusive residential apartment project by Sesha Projects. With just 15 units, it provides a private and close-knit community atmosphere. Flats for sale in Kovaipudur are thoughtfully designed 2 BHK, offering spacious living with abundant natural light and ventilation. The residence is able to enjoy modern amenities and easy access to essential facilities.",
         "location": "Near by Ashram School, Kovaipudur, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "979",
-                "max_size_sq_ft": "1173",
-                "price": "58.74 L - 70.38 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 979,
+                "max_size_sq_ft": 1173,
+                "min_price": 5874000,
+                "max_price": 7038000
             }
         ]
     },
@@ -823,16 +896,18 @@
         "location": "Near by CRI Trust Healthcare, Saravanampatti, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "579",
-                "max_size_sq_ft": "814",
-                "price": "36 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 579,
+                "max_size_sq_ft": 814,
+                "min_price": 3600000,
+                "max_price": 3600000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "737",
-                "max_size_sq_ft": "814",
-                "price": "46.08 L - 51.69 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 737,
+                "max_size_sq_ft": 814,
+                "min_price": 4608000,
+                "max_price": 5169000
             }
         ]
     },
@@ -843,16 +918,18 @@
         "location": "Near by Chil IT Park, Saravanampatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1380",
-                "max_size_sq_ft": "1380",
-                "price": "75 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1380,
+                "max_size_sq_ft": 1380,
+                "min_price": 7500000,
+                "max_price": 7500000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2431",
-                "max_size_sq_ft": "2431",
-                "price": "1.32 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 2431,
+                "max_size_sq_ft": 2431,
+                "min_price": 13200000,
+                "max_price": 13200000
             }
         ]
     },
@@ -863,10 +940,11 @@
         "location": "Near Arul Mehu Prasana Vinayagar Thirukoil, Kundapur, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1450",
-                "max_size_sq_ft": "1855",
-                "price": "1.23 Cr - 1.57 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1450,
+                "max_size_sq_ft": 1855,
+                "min_price": 12300000,
+                "max_price": 15700000
             }
         ]
     },
@@ -877,10 +955,11 @@
         "location": "Near by Kendriya Vidyalaya CBSE School, Avinashi Road, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1240",
-                "max_size_sq_ft": "1334",
-                "price": "80.06 L - 86.71 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1240,
+                "max_size_sq_ft": 1334,
+                "min_price": 8006000,
+                "max_price": 8671000
             }
         ]
     },
@@ -891,22 +970,25 @@
         "location": "Near by Manchester International School, Saravanampatti, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1145",
-                "max_size_sq_ft": "1145",
-                "price": "57.25 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1145,
+                "max_size_sq_ft": 1145,
+                "min_price": 5725000,
+                "max_price": 5725000
             },
             {
-                "bhk": "2.5 BHK Flats",
-                "min_size_sq_ft": "1386",
-                "max_size_sq_ft": "1386",
-                "price": "69.03 L *"
+                "bhk": 5,
+                "min_size_sq_ft": 1386,
+                "max_size_sq_ft": 1386,
+                "min_price": 6903000,
+                "max_price": 6903000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1558",
-                "max_size_sq_ft": "1565",
-                "price": "77.09 L - 78.25 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1558,
+                "max_size_sq_ft": 1565,
+                "min_price": 7709000,
+                "max_price": 7825000
             }
         ]
     },
@@ -917,16 +999,18 @@
         "location": "Near Sri Karuparayaswamy Kovil, Puliakulam, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1003",
-                "max_size_sq_ft": "1210",
-                "price": "82.26 L - 86.19 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1003,
+                "max_size_sq_ft": 1210,
+                "min_price": 8226000,
+                "max_price": 8619000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1157",
-                "max_size_sq_ft": "1210",
-                "price": "94.88 L - 99.23 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1157,
+                "max_size_sq_ft": 1210,
+                "min_price": 9488000,
+                "max_price": 9923000
             }
         ]
     },
@@ -937,22 +1021,25 @@
         "location": "Near Hindustan Fuel Station, Pollachi, Coimbatore",
         "config": [
             {
-                "bhk": "1 BHK Flats",
-                "min_size_sq_ft": "550",
-                "max_size_sq_ft": "809",
-                "price": "33 L - 48.54 L *"
+                "bhk": 1,
+                "min_size_sq_ft": 550,
+                "max_size_sq_ft": 809,
+                "min_price": 3700000,
+                "max_price": 4854000
             },
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "945",
-                "max_size_sq_ft": "1064",
-                "price": "56.7 L - 63.84 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 945,
+                "max_size_sq_ft": 1064,
+                "min_price": 5670000,
+                "max_price": 6384000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1132",
-                "max_size_sq_ft": "1189",
-                "price": "67.92 L - 71.34 L *"
+                "bhk": 3,
+                "min_size_sq_ft": 1132,
+                "max_size_sq_ft": 1189,
+                "min_price": 6792000,
+                "max_price": 7134000
             }
         ]
     },
@@ -963,16 +1050,18 @@
         "location": "Near by KTVR Group Hospital, Thudiyalur, Coimbatore",
         "config": [
             {
-                "bhk": "2 BHK Flats",
-                "min_size_sq_ft": "1295",
-                "max_size_sq_ft": "1300",
-                "price": "85 L - 85.31 L *"
+                "bhk": 2,
+                "min_size_sq_ft": 1295,
+                "max_size_sq_ft": 1300,
+                "min_price": 8500000,
+                "max_price": 8531000
             },
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1930",
-                "max_size_sq_ft": "2082",
-                "price": "1.26 Cr - 1.36 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1930,
+                "max_size_sq_ft": 2082,
+                "min_price": 12600000,
+                "max_price": 13600000
             }
         ]
     },
@@ -983,30 +1072,11 @@
         "location": "Near by Ramar Temple, Ramnagar, Coimbatore",
         "config": [
             {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "1416",
-                "max_size_sq_ft": "1864",
-                "price": "1.63 Cr - 2.14 Cr *"
-            }
-        ]
-    },
-    {
-        "project": "Vakaman Sankalp",
-        "promoter": "Vakaman Developers India Pvt Ltd",
-        "description": "Explore the beauty and elegance of space at Vakaman Sankalp, developed by Vakaman Developers. These well-planned 2 and 3 BHK apartments provide spacious and comfortable living. Flats in R. S. Puram are ideal for families prioritising privacy, comfort, and convenience. The flat unit comes with a limited collection of just 10; it's one of the most anticipated residential spots for modern living in the locality.",
-        "location": "Near by Vedanayagam Hospital, R S Puram, Coimbatore",
-        "config": [
-            {
-                "bhk": "3 BHK Flats",
-                "min_size_sq_ft": "2513",
-                "max_size_sq_ft": "2513",
-                "price": "3.39 Cr *"
-            },
-            {
-                "bhk": "4 BHK Flats",
-                "min_size_sq_ft": "2499",
-                "max_size_sq_ft": "2499",
-                "price": "3.37 Cr *"
+                "bhk": 3,
+                "min_size_sq_ft": 1416,
+                "max_size_sq_ft": 1864,
+                "min_price": 16300000,
+                "max_price": 21400000
             }
         ]
     }
