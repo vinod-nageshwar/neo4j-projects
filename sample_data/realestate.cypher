@@ -28,7 +28,3 @@ SET prp.min_size_sq_ft = config.min_size_sq_ft,
 MERGE (prp)-[:BELONGS_TO]->(prj)
 ",
 {batchSize: 10, parallel: false, retries: 0})
-
-
-
-connect@innovaesi.com
