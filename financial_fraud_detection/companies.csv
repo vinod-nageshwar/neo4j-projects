@@ -1,0 +1,21 @@
+companyId,name,incorporationCountry,incorporationDate,industry,isShell
+C0001,Another Holdings Ltd,AE,2011-08-08,Holding Company,True
+C0002,Spend Holdings SA,KY,2013-05-19,Holding Company,True
+C0003,Everybody Holdings Ltd,KY,2013-10-24,Holding Company,True
+C0004,Letter Holdings BV,RU,2019-04-10,Holding Company,True
+C0005,Late Holdings BV,AE,2019-05-27,Holding Company,True
+C0006,Brother Holdings SA,RU,2012-08-08,Holding Company,True
+C0007,Use Holdings Ltd,KY,2021-03-23,Holding Company,True
+C0008,Church Holdings LLC,RU,2019-03-10,Holding Company,True
+C0009,Aguilar-Hernandez,CH,2013-05-02,Monetize,False
+C0010,Clark-Wright,DE,2012-12-27,Revolutionize,False
+C0011,"Moore, Spears and Hancock",NG,2025-03-20,Exploit,False
+C0012,White LLC,NG,2022-07-03,Deploy,False
+C0013,Cobb Inc,US,2016-11-26,Integrate,False
+C0014,Velasquez Group,RU,2016-06-11,Transition,False
+C0015,Keller Group,CH,2016-02-23,Cultivate,False
+C0016,May-Ross,PA,2025-04-14,Incubate,False
+C0017,Wiley LLC,US,2014-01-19,Morph,False
+C0018,"Hamilton, Chandler and Edwards",UK,2020-01-14,Deliver,False
+C0019,"Lee, Williams and Graham",CH,2018-10-30,Exploit,False
+C0020,Jones-Beck,SG,2016-03-04,Harness,False
